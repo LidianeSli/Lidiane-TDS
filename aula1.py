@@ -28,3 +28,5 @@ PALAVRA = input("Digite a palavra: ")
 palacri = criptografar(PALAVRA)
 
 descriptografar(palacri)
+
+//comentario para commit no git
