@@ -23,7 +23,7 @@ def descriptografar(palavra):
     palavracriptografada=palavracriptografada+ALFABETO[posicaoalfa-3:posicaoalfa-2]
   print("A palavra ",palavra," descriptografada é ",palavracriptografada)
 
-PALAVRA= input("Digite a palavra: ")
+PALAVRA = input("Digite a palavra: ")
 
 palacri = criptografar(PALAVRA)
 
